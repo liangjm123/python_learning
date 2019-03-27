@@ -6,3 +6,4 @@ df.types #字符串还是数字格式(Pandas)
 # 元素在字符串里的位置
 a = ["ab","cd",1,3]
 a.index(1)
+np.split()
